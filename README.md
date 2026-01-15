@@ -6,7 +6,7 @@ ThinkBoard is a professional, AI-powered whiteboard application that combines fr
 
 - **🎨 Infinite Canvas**: Powered by Fabric.js for smooth, high-performance drawing.
 - **🤖 AI Assistant**: Generate flowcharts and diagrams instantly using natural language prompts.
-- **ben Shape Library**: Support for Rectangles, Circles, Triangles, Stars, Pentagons, and more.
+- **🔷 Shape Library**: Support for Rectangles, Circles, Triangles, Stars, Pentagons, and more.
 - **✏️ Smart Drawing**: Freehand pencil tool, text editor, and intelligent shape resizing.
 - **⏪ Time Travel**: Robust Undo/Redo history stack to manage your workflow.
 - **🌗 Theme Support**: Fully responsive Light and Dark mode.
@@ -30,11 +30,11 @@ ThinkBoard is a professional, AI-powered whiteboard application that combines fr
 
 ### Installation
 
-1. Clone the repository:
-```bash
-git clone [https://github.com/iamAditya-Pandey/ThinkBoard-AI.git]
-cd ThinkBoard-AI-Powered-Whiteboard
-```
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/iamAditya-Pandey/ThinkBoard-AI.git
+   cd ThinkBoard-AI
+   ```
 
 2. Install dependencies:
 ```bash
@@ -70,7 +70,7 @@ The project uses Vite for development, which provides:
 
 ## Contact
 
-For any inquiries, reach out at [pandeyaditya19012006@gmail.com].<br>
+For any inquiries, reach out at [pandeyaditya19012006@gmail.com](mailto:pandeyaditya19012006@gmail.com).<br>
 GitHub: [iamAditya-Pandey](https://github.com/iamAditya-Pandey).<br>
 Linkedin: [Aditya-Pandey](https://www.linkedin.com/in/aditya-pandey-23309a373/).<br>
 
