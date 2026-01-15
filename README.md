@@ -1,5 +1,14 @@
 # ThinkBoard-AI Powered Whiteboard
 
+<div align="center">
+
+[![Vercel App](https://img.shields.io/badge/Vercel-Live_Demo-black?style=for-the-badge&logo=vercel)](https://thinkboard-ai-powered-whiteboard.vercel.app/)
+[![GitHub Pages](https://img.shields.io/badge/GitHub-Pages-blue?style=for-the-badge&logo=github)](https://iamAditya-Pandey.github.io/ThinkBoard-AI-Powered-Whiteboard/)
+
+</div>
+
+---
+
 ThinkBoard is a professional, AI-powered whiteboard application that combines freeform drawing with intelligent diagram generation. Designed for developers and designers to brainstorm, sketch, and generate flowcharts effortlessly using AI.
 
 ## Features
